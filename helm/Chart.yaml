@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-profit-calculation-and-distribution
+description: "BIAN Service Domain: Profit Calculation And Distribution (Process pattern, Deposits and Investment Accounts)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Deposits and Investment Accounts"
+  isb/business-domain: "Profit Management"
+  isb/asset-type: "Profit Distribution Run"
+  isb/control-record: "Profit Distribution Run Procedure"
